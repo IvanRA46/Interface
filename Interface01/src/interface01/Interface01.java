@@ -14,7 +14,8 @@ public class Interface01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       
+       FrmPrincipal ventana = new FrmPrincipal();
+       ventana.setVisible(true);
     }
     
 }
