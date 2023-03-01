@@ -16,7 +16,7 @@ public class FrmPrincipal
      */
     public FrmPrincipal() {
         initComponents();
-        Alumno al = new Alumno();
+        al = new Alumno();
     }
 
     /**
